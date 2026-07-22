@@ -33,8 +33,7 @@
 # 2. 疾风云（IEPL/IPLC 独立专线）
 
 ## [点击进入官网](https://affgo.cc/jife)  
-
-**七折优惠码：JF5169  **
+**七折优惠码：JF5169**
 
 * 协议与技术：底层基于国内优质多线 BGP 中转网关，全面内嵌企业级跨境 IEPL/IPLC 独立专线优化技术，支持 Shadowsocks (SS) / Trojan / VLESS (Reality) 加密协议。
 
